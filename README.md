@@ -8,7 +8,8 @@
 
 # ゲーム概要
 - 敵に見つからないようにゴールとなる光る玉を探すゲームです
-- 扉が開く音や、キラキラとした音から敵やゴールの位置を推測できます
+- 扉が開く音から敵の位置を推測できます
+- ゴールからも音がします
 
 # デモ動画
 <img src="https://raw.githubusercontent.com/wiki/tunamayo1412/hion/icon.gif.gif" width="500">
