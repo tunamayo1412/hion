@@ -12,7 +12,7 @@
 
 # デモ動画
 <img src="https://raw.githubusercontent.com/wiki/tunamayo1412/hion/icon.gif.gif" width="500">
-<img src="https://raw.githubusercontent.com/wiki/tunamayo1412/magma-dash/enemy.gif" width="500">
+<img src="https://raw.githubusercontent.com/wiki/tunamayo1412/hion/enemy.gif" width="500">
 
 # 環境
 - 開発言語：C#
