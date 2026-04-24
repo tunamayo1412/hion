@@ -9,6 +9,10 @@
 - ゲーム制作のためのプログラミングスキルを身につけるために、ゲームを1週間で制作するというコンセプトのイベントである「Unity1週間ゲームジャム」に参加しました
 - お題「さがす」を基にどのようなゲームを作れるか考えた結果、Blenderの学習として作ったモデルを敵として活用したホラーゲームを作れないかという考えになりました
 
+**`制作した3Dモデル`**
+
+<img src="https://raw.githubusercontent.com/wiki/tunamayo1412/hion/enemy_mesh.png" height="400">
+
 # ゲーム概要
 - 敵に見つからないようにゴールとなる光る玉を探すゲームです
 - 扉が開く音から敵の位置を推測できます
@@ -17,7 +21,7 @@
 # デモ動画
 <img src="https://raw.githubusercontent.com/wiki/tunamayo1412/hion/icon.gif.gif" width="500">
 
-<img src="https://raw.githubusercontent.com/wiki/tunamayo1412/hion/enemy.gif" height="400"> <img src="https://raw.githubusercontent.com/wiki/tunamayo1412/hion/enemy_mesh.png" height="400">
+<img src="https://raw.githubusercontent.com/wiki/tunamayo1412/hion/enemy.gif" height="400"> 
 
 # 環境
 - 開発言語：C#
