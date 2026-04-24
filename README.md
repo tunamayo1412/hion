@@ -18,7 +18,7 @@
 - 検証済みOS：Windows 10 Home 22H2
 
 # 利用方法
-- Unity 2018.2.6f1で本プロジェクトを起動してください
+- Unity 2019.2.9f1で本プロジェクトを起動してください
 - また、UnityRoom上でもプレイすることが出来ます：<https://unityroom.com/games/hion>
 
 # 操作方法
