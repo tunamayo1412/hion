@@ -13,7 +13,7 @@
 
 # デモ動画
 <img src="https://raw.githubusercontent.com/wiki/tunamayo1412/hion/icon.gif.gif" width="500">
-<img src="https://raw.githubusercontent.com/wiki/tunamayo1412/hion/enemy.gif" width="400"><img src="https://raw.githubusercontent.com/wiki/tunamayo1412/hion/enemy_mesh.png" width="400">
+| <img src="https://raw.githubusercontent.com/wiki/tunamayo1412/hion/enemy.gif" width="400"> | <img src="https://raw.githubusercontent.com/wiki/tunamayo1412/hion/enemy_mesh.png" width="400"> |
 
 # 環境
 - 開発言語：C#
